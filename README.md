@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Safwan Shamsir</h1>
-<h3 align="center">I am a data scientist from Malaysia :malaysia:</h3>
+<h3 align="center">I am a data scientist from Malaysia </h3>
+
 
 - 🌱 I’m currently learning **Web-Scraping and Natural Language Processing.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/safwanshamsir99?tab=repositories](https://github.com/safwanshamsir99?tab=repositories)
+- 👨‍💻 All of my projects are available at [here!](https://github.com/safwanshamsir99?tab=repositories)
 
 - 🔭 I'm also currently interested in **Deep Learning and Artificial Intelligence (AI) Development.**
 
-- 📫 How to reach me **safwanshamsir7177@gmail.com**
+- 📫 How to reach me: **safwanshamsir7177@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
