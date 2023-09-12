@@ -2,7 +2,7 @@
 <h3 align="center">I am a data scientist from Malaysia </h3>
 
 
-- 🌱 I’m currently learning **Web-Scraping and Natural Language Processing.**
+- 🌱 I’m currently learning **TensorFlow and PyTorch.**
 
 - 👨‍💻 All of my projects are available at [here!](https://github.com/safwanshamsir99?tab=repositories)
 
